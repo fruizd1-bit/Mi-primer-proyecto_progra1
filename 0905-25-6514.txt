@@ -1,0 +1,13 @@
+Laboratorio Git – Programación 1
+
+1. ¿Qué aprendi sobre el flujo de trabajo con Git y GitHub?
+
+Aprendí a crear repositorios públicos en GitHub, clonarlos a mi computadora mediante SSH, realizar commits con mensajes descriptivos, crear y trabajar con ramas, fusionarlas con la rama principal y sincronizar los cambios con el repositorio remoto. También comprendí la importancia de mantener un historial organizado y profesional.
+
+2. ¿Cómo fue la experiencia de trabajar en pareja? ¿Encontraste algún conflicto? ¿Cómo lo resolviste?
+
+En este caso trabajé de forma individual, por lo que no se presentaron conflictos con otros integrantes. Sin embargo, comprendí cómo podrían surgir conflictos al modificar las mismas líneas de un archivo y cómo Git permite resolverlos manualmente antes de confirmar los cambios.
+
+3. ¿Qué ventajas crees que tiene usar Git en proyectos de programación?
+
+Git permite llevar un control detallado de los cambios realizados en el código, facilita el trabajo en equipo mediante ramas, mejora la organización del proyecto y permite regresar a versiones anteriores si ocurre algún error. Además, es una herramienta fundamental en el entorno profesional de desarrollo de software.
